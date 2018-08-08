@@ -1,3 +1,43 @@
+
+/*
+*{
+  margin: 0px;
+  padding: 0px;
+*/
+body {
+  background-color: #555555;
+  color: #f4f4f4; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:link {
+  color: rgb(0, 195, 255);
+  text-decoration: none;
+}
+a:hover {
+  color: #bebdbd;
+  text-decoration: none;
+}
+a:visited {
+  color: #e6d6fa;
+  text-decoration: none;
+}
+.main
+{
+  width: 80%;
+  margin: auto;
+}
+.text_area{
+  background-color: #333333;
+  padding: 5px 15px 5px 15px;
+}
 h1 {
-    color: #00abc0
+    color: whitesmoke;
+    font: 20px;
   }
+h2 {
+  color: whitesmoke;
+  font: 18px
+}
+p {
+  color: whitesmoke;
+}
